@@ -168,6 +168,8 @@ header {
     display: inline-block;
 }
 
+
+
 .hero-text p {
     color: var(--text-sub);
     margin-bottom: 25px;
@@ -209,7 +211,7 @@ header {
 
 .hero-visual {
     background-color: #333;
-    height: 300px;
+    height: 150px;
     border-radius: 8px;
     display: flex;
     align-items: center;
