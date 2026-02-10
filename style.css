@@ -168,6 +168,8 @@ header {
     display: inline-block;
 }
 
+
+
 .hero-text p {
     color: var(--text-sub);
     margin-bottom: 25px;
